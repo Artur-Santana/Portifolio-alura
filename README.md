@@ -12,7 +12,8 @@
 
 ## Feito por:
 
-### Artur Santana 
+### Artur Santana
 
+### Linkedin: https://www.linkedin.com/in/artur-santana-23b95b1ab/
 
 ```
