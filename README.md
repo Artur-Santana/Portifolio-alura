@@ -12,7 +12,7 @@
 
 ## Pagina Finalizada:
 
-### https://artur-santana.github.io/Aluraplus/
+### https://artur-santana.github.io/Portifolio-alura/
 
 ## Feito por:
 
