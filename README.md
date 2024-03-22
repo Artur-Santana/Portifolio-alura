@@ -10,6 +10,10 @@
 
 * Flex-box
 
+## Pagina Finalizada:
+
+### https://artur-santana.github.io/Aluraplus/
+
 ## Feito por:
 
 ### Artur Santana
